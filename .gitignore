@@ -1,4 +1,6 @@
 public
+tmp
 .vscode
-.exe
+*.exe
+.env
 *_templ.go
